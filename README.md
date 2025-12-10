@@ -8,13 +8,6 @@ The website includes clean UI design, responsive sections, buttons, tables, and 
 
 👉 Add your GitHub Pages link here after enabling GitHub Pages
 Example: https://sairams1.github.io/portfolio-website/
-📸 **Preview**
-
-
-
-
-
-
 
 📁 **Project Structure**
 portfolio-website/
